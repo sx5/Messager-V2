@@ -1,2 +1,4 @@
 # Messager-V2
-More advanced version of my previous Auto Messager
+
+
+> Same as last auto messager but this has Delay and Message variations to bypass bots like MEE6 detection and farm.
